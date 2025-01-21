@@ -1,7 +1,3 @@
-Solid State by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
 
 After a somewhat extended break from HTML5 UP (to work on a secret-ish new project --
 more on that later!) I'm back with a brand new design: Solid State, a slick new multi-
@@ -14,7 +10,7 @@ you can use for pretty much whatever.
 (* = not included)
 
 AJ
-aj@lkn.io | @ajlkn
+Jesutofunmi Ajobo | @CodeFortis
 
 
 Credits:
